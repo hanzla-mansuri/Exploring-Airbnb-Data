@@ -1,0 +1,17 @@
+**Lecture 2 Notes:
+Understanding of Problem Statement
+    Problem / Business Objective.
+    >   E =     Extract
+        T =     Transform
+        L =     Loading the Data
+            >   E = Exploratory
+                D = Data
+                A = Analytics
+    >   Model
+    >   Data Visualization
+* Project Requirement :
+    Data Sources :
+    >Primary        :   Data own by company
+    >Secondary      :   Outsourced Data   
+
+IQR = Q3-Q1
